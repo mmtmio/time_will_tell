@@ -1,3 +1,4 @@
+require 'Date'
 require 'rails/railtie'
 require 'time_will_tell'
 
