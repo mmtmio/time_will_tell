@@ -1,4 +1,4 @@
-require 'rails/railtie'
+require 'active_support/core_ext/object/with_options'
 require 'time_will_tell/helpers/date_helper'
 require 'time_will_tell/helpers/date_range_helper'
 
